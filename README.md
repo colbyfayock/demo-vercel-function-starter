@@ -29,7 +29,7 @@ npm install -g vercel@latest
 vercel dev
 ```
 
-After connecting a project to Vercel, your project should now be available at http://localhost:3000!
+After connecting a project to Vercel, you should have a new endpoint available at http://localhost:3000/api/hello!
 
 ## Deploying
 
